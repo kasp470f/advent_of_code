@@ -24,7 +24,7 @@ Each day's challenge consists of two parts, with increasing difficulty. My solut
 ## ⭐ Progress
 | Year	   | Progress    |
 | -------- | -------  |
-| 2015	   | █░░░░░░░░░░░░ 
+| 2015	   | ███░░░░░░░░░░ 
 
 ## 🤝 Contributions
 Feel free to check out my solutions and suggest improvements so I can learn from them!
